@@ -1,0 +1,8 @@
+By the end of this session, you should be able to:
+
+Confidently use all basic branching commands
+Follow proper branch naming conventions
+Perform a local merge
+Understand the difference between Local Merge and GitHub Pull Request
+Create a Pull Request on GitHub
+Merge a Pull Request on GitHub
