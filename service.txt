@@ -1,0 +1,19 @@
+6. How to Create a Pull Request (Step-by-step)
+Push your feature branch to GitHub
+Open your repository on GitHub
+You will usually see a yellow banner: “Compare & pull request”
+Click Compare & pull request
+Fill in:
+Title (clear and meaningful)
+Description (what you changed and why)
+Set:
+base: main
+compare: your feature branch
+Click Create pull request
+7. How to Merge a Pull Request (Step-by-step)
+Open the Pull Request on GitHub
+Review the Files changed tab
+Check if everything looks correct
+Click Merge pull request
+Click Confirm merge
+(Recommended) Click Delete branch on GitHub
